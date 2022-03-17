@@ -1,0 +1,69 @@
+Press Spacebar to move forward in the story.
+There will be choices along the way that effect the world around you.
+First things first.
+Please tell us your name.
+[Name]
+Welcome to Penumbra.
+[nimi]
+
+Forest: You have entered into a weird, foreing terrain. 
+Its full of tall trees, and creeping shadows.
+You decide to head further in. There must be somebody, somewhere.
+Deep Forest: You keep going and going, untill not even the smallest ray of sunshine comes through.
+You are utterly lost. 
+Suddenly.
+You feel a crushing force around your throath.
+You cant move.
+Cant breath.
+[Choice] Scream for help?
+
+Prison: You wake up in a new environment. A prison.
+Ouh.
+There is somebody there.
+[Choice] Abroach the figure?
+...
+...
+....
+...
+Its quiet.
+...
+..
+.
+A loud bang wakes you up from your thoughts.
+A guard stands outside the prison door, looking serious.
+[NPC] YUKI
+Yuki: "About time you wake up. Queen has been running around for hours already."
+You take a closer look.
+Its a full grown husky soldier.
+You must be dreaming.
+Yuki: "...."
+Guard is not too pleased about the situation.
+He opens the door and gestures you to step outside.
+You leave in silence, leaving a suddle snoring figure behind you.
+Prison Hall: You are alone with the guard, quietly huffing and growling something.
+[Choice] Want to talk to him?
+After a maze of corridors and hallways, you leave the underground dungeon.
+Courtyard: The castle looks amazing.
+What is all this?
+Are you dreaming or something [nimi]?
+Where are you excatly?
+Yuki grunts at your expression.
+Yuki: "C´mon slowpoke. This way."
+Castle Hall: You enter further in to the castle, making your way through yet to another maze.
+The halls are large and empty. 
+Only your steps echos in here.
+Yuki opens a large door at the end of the hallway.
+Throne room: Its filled with light, gold and luxury.
+But you notice something else.
+A small figure rushing closer.
+[NPC] PEPSI YUKI
+Pepsi: "Oi Yuki! The creature is awake! Quick, quick, bring him over."
+Yuki:...Majesty Pepsi.
+The guard let out a long sigh.
+Yuki: Here it is.
+Yuki:...
+Yuki: What ever it is.
+Yuki, the guard, seems to be leaving.
+[NPC] PEPSI
+[Choice] Stay with the Majesty?
+[END]

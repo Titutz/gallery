@@ -1,0 +1,8 @@
+You submit to your fate in silence
+You scream. But nobody comes.
+You decide to leave figure alone for now.
+The figure seems to be asleep for now. You notice a patch of white fur, but dont think anything about it.
+You ignore the guard, continue to walk in silence.
+[talk]
+This is the end of the game for now.
+This is the end of the game for now.
